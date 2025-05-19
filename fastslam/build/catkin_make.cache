@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/fastslam/fastslam/devel -DCMAKE_INSTALL_PREFIX=/fastslam/fastslam/install -G Unix Makefiles
